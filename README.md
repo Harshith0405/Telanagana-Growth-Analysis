@@ -462,19 +462,19 @@ The analysis helps identify:
 
 
 
-✅ Multi-source dataset analysis  
+✅ Multi-source dataset analysis
 
-✅ Data cleaning and transformation  
+✅ Data cleaning and transformation
 
-✅ Exploratory Data Analysis  
+✅ Exploratory Data Analysis
 
-✅ SQL-based data querying  
+✅ SQL-based data querying
 
-✅ Interactive Power BI dashboard  
+✅ Interactive Power BI dashboard
 
-✅ District-level growth comparison  
+✅ District-level growth comparison
 
-✅ Economic trend visualization  
+✅ Economic trend visualization
 
 
 
@@ -625,4 +625,48 @@ Harshith Reddy
 GitHub:
 
 https://github.com/Harshith0405
+
+## 🚀 Live Demo
+
+
+
+Streamlit Dashboard:
+
+(Add your Streamlit URL here)
+
+
+
+\## 📊 Project Features
+
+
+
+\- Telangana district-wise growth analysis
+
+\- Investment and industrial growth analysis
+
+\- Transport sector analysis
+
+\- Data visualization dashboard
+
+\- Interactive filtering and charts
+
+
+
+\## 🛠️ Technologies Used
+
+
+
+\- Python
+
+\- Pandas
+
+\- NumPy
+
+\- Matplotlib
+
+\- Streamlit
+
+\- SQL
+
+\- Power BI
 
